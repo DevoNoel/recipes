@@ -3,6 +3,7 @@
 Adapted from [marthastewart.com](http://www.marthastewart.com/331764/chicken-or-veal-parmigiana)
 
 ## Ingredients
+
 + Veal scallopini, 1/8 inch thick
 + Mozzarella cheese
 + 1/2 cup of parm
