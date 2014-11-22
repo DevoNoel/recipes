@@ -35,4 +35,4 @@ Boil until done, about 10 minutes.  Drain water.  Place pasta back in the pot.
 Add the rest of the jar of sauce.
 
 1. **Put it all together:**  Eat your food.  Do the dishes.  Be grateful for
-for your blessings.
+your blessings.
