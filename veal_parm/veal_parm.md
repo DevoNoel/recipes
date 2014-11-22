@@ -8,7 +8,7 @@ Adapted from [marthastewart.com](http://www.marthastewart.com/331764/chicken-or-
 + Mozzarella cheese
 + 1/2 cup of parm
 + 1 jar of tomato-based sauce
-+ 2 cups bread crumbs
++ 1 and 1/2 cups bread crumbs
 + 1 cup flour
 + 4 eggs
 + Pasta
