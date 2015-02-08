@@ -5,6 +5,7 @@ talking about Chef here. Poached from other sites, adapted to my personal
 tastes.  Without all the adds and bloat and bullshit of 99% of recipe websites.
 
 + [Chicken Stew](chicken_stew/README.md)
++ [Rice Mush](rice_mush/README.md)
 + [Veal Parm](veal_parm/README.md)
 
 ## Contributing
