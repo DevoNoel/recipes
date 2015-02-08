@@ -11,7 +11,7 @@ food substitute.  Rice Mush can be made with a large variety of ingredients.
 
 ## Directions
 
-1. **Cook the rice:** Start by steaming some rice.  In case you're clueless and don't
+1. **Cook the Rice:** Start by steaming some rice.  In case you're clueless and don't
    know how, start by putting a cup or so of rice in a pot, fill it so that the water
    reaches about 1 inch above the rice, turn the stove on high, bring to a boil, turn
    the heat to low, cook until there's no water left.
