@@ -8,6 +8,7 @@ tastes, or from my own brain.  Without all the ads and bloat and bullshit of
 + [Chicken Stew](chicken_stew/README.md)
 + [Rice Mush](rice_mush/README.md)
 + [Veal Parm](veal_parm/README.md)
++ [Steak and Ale Pie](steak_pie/README.md)
 
 ## Contributing
 
